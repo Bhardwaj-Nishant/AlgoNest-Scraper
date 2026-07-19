@@ -1,0 +1,2949 @@
+{
+  "status": "success",
+  "message": "",
+  "result": {
+    "Medium": {
+      "713976": {
+        "slug": "equalize-all-prefix-sums",
+        "pname": "Equalize All Prefix Sums",
+        "lang": "java",
+        "user_subtime": "2026-06-19 23:53:38"
+      },
+      "706297": {
+        "slug": "construct-list-using-given-q-xor-queries",
+        "pname": "Construct List using XOR Queries",
+        "lang": "java",
+        "user_subtime": "2026-06-16 19:23:30"
+      },
+      "704039": {
+        "slug": "minimum-cost-to-fill-given-weight-in-a-bag1956",
+        "pname": "Minimum Cost to Fill Given Weight",
+        "lang": "java",
+        "user_subtime": "2026-06-15 21:15:05"
+      },
+      "705235": {
+        "slug": "exit-point-in-a-matrix0905",
+        "pname": "Exit Point in a Matrix",
+        "lang": "java",
+        "user_subtime": "2026-06-14 21:50:53"
+      },
+      "705104": {
+        "slug": "count-even-length1907",
+        "pname": "Binary Strings with Equal Sum of Two Halves",
+        "lang": "java",
+        "user_subtime": "2026-06-13 19:20:24"
+      },
+      "702931": {
+        "slug": "check-if-a-string-is-repetition-of-its-substring-of-k-length3302",
+        "pname": "Check Repeated Substring with K Replacements",
+        "lang": "java",
+        "user_subtime": "2026-06-12 23:08:07"
+      },
+      "706293": {
+        "slug": "binary-searchable-elements",
+        "pname": "Binary Searchable Count",
+        "lang": "java",
+        "user_subtime": "2026-06-10 22:59:00"
+      },
+      "701235": {
+        "slug": "union-of-two-sorted-arrays-1587115621",
+        "pname": "Union of 2 Sorted Arrays",
+        "lang": "java",
+        "user_subtime": "2026-06-08 12:21:21"
+      },
+      "702691": {
+        "slug": "maximum-sub-array5443",
+        "pname": "Maximum Sub Array",
+        "lang": "java",
+        "user_subtime": "2025-11-08 23:24:07"
+      },
+      "705281": {
+        "slug": "finding-profession3834",
+        "pname": "Finding Profession",
+        "lang": "java",
+        "user_subtime": "2026-06-07 23:48:51"
+      },
+      "701371": {
+        "slug": "non-attacking-black-and-white-knights",
+        "pname": "Non-Attacking Black and White Knights",
+        "lang": "java",
+        "user_subtime": "2026-06-06 17:17:06"
+      },
+      "703740": {
+        "slug": "lexicographically-smallest-after-removing-k",
+        "pname": "Lexicographically smallest after removing k",
+        "lang": "java",
+        "user_subtime": "2026-06-05 23:24:22"
+      },
+      "703404": {
+        "slug": "maximum-difference-of-zeros-and-ones-in-binary-string4111",
+        "pname": "Substring with Max Zero-One Diff",
+        "lang": "java",
+        "user_subtime": "2026-06-04 23:58:59"
+      },
+      "901982": {
+        "slug": "count-frequency-of-an-element-in-a-given-range",
+        "pname": "Subarray Frequency Count Queries",
+        "lang": "java",
+        "user_subtime": "2026-06-03 23:40:41"
+      },
+      "709949": {
+        "slug": "maximum-product-subset-of-an-array",
+        "pname": "Max Product Subset",
+        "lang": "java",
+        "user_subtime": "2026-06-01 23:28:27"
+      },
+      "700602": {
+        "slug": "vertical-sum",
+        "pname": "Vertical Sum",
+        "lang": "java",
+        "user_subtime": "2026-05-28 23:23:51"
+      },
+      "898530": {
+        "slug": "difference-array",
+        "pname": "Difference Array",
+        "lang": "java",
+        "user_subtime": "2026-05-26 18:59:20"
+      },
+      "711094": {
+        "slug": "1s-surrounded-by-0s",
+        "pname": "1s Surrounded by 0s",
+        "lang": "java",
+        "user_subtime": "2026-03-13 10:32:19"
+      },
+      "704572": {
+        "slug": "special-keyboard3018",
+        "pname": "Special Keyboard",
+        "lang": "java",
+        "user_subtime": "2026-05-15 12:16:51"
+      },
+      "701198": {
+        "slug": "wave-array-1587115621",
+        "pname": "Wave Array",
+        "lang": "java",
+        "user_subtime": "2026-05-14 12:02:34"
+      },
+      "701364": {
+        "slug": "n-meetings-in-one-room-1587115620",
+        "pname": "Activity Selection",
+        "lang": "java",
+        "user_subtime": "2026-05-13 10:03:04"
+      },
+      "701368": {
+        "slug": "minimum-platforms-1587115620",
+        "pname": "Minimum Platforms",
+        "lang": "java",
+        "user_subtime": "2026-05-06 10:47:09"
+      },
+      "706386": {
+        "slug": "division-without-using-multiplication-division-and-mod-operator",
+        "pname": "Division without using multiplication, division and mod operator",
+        "lang": "java",
+        "user_subtime": "2026-05-12 10:24:40"
+      },
+      "703807": {
+        "slug": "finding-the-numbers0215",
+        "pname": "Unique Number II",
+        "lang": "java",
+        "user_subtime": "2026-05-11 10:30:00"
+      },
+      "707278": {
+        "slug": "find-element-occuring-once-when-all-other-are-present-thrice",
+        "pname": "Unique Number III",
+        "lang": "java",
+        "user_subtime": "2026-05-11 09:55:49"
+      },
+      "703975": {
+        "slug": "max-profit-from-two-machines",
+        "pname": "Max Profit from Two Machines",
+        "lang": "java",
+        "user_subtime": "2026-05-10 23:48:33"
+      },
+      "712195": {
+        "slug": "subarrays-with-k-different-integers",
+        "pname": "Subarrays with K Distinct Integers",
+        "lang": "java",
+        "user_subtime": "2026-05-08 15:06:56"
+      },
+      "712148": {
+        "slug": "count-subarray-with-k-odds",
+        "pname": "Count Subarray with k odds",
+        "lang": "java",
+        "user_subtime": "2026-05-08 12:41:20"
+      },
+      "712151": {
+        "slug": "binary-subarray-with-sum",
+        "pname": "Binary subarray sum",
+        "lang": "java",
+        "user_subtime": "2026-05-08 12:24:43"
+      },
+      "712150": {
+        "slug": "count-substring",
+        "pname": "Count Substrings with a, b and c",
+        "lang": "java",
+        "user_subtime": "2026-05-07 17:36:29"
+      },
+      "702728": {
+        "slug": "maximize-number-of-1s0905",
+        "pname": "Maximize Number of 1's",
+        "lang": "java",
+        "user_subtime": "2026-05-07 16:57:38"
+      },
+      "703205": {
+        "slug": "longest-distinct-characters-in-string5848",
+        "pname": "Longest substring with distinct characters",
+        "lang": "java",
+        "user_subtime": "2026-05-07 15:45:51"
+      },
+      "712194": {
+        "slug": "maximum-point-you-can-obtain-from-cards",
+        "pname": "Maximum point you can obtain from cards",
+        "lang": "java",
+        "user_subtime": "2026-05-07 15:14:38"
+      },
+      "712536": {
+        "slug": "insert-interval-1666733333",
+        "pname": "Insert Interval",
+        "lang": "java",
+        "user_subtime": "2026-05-06 10:05:18"
+      },
+      "712431": {
+        "slug": "non-overlapping-intervals",
+        "pname": "Non-overlapping Intervals",
+        "lang": "java",
+        "user_subtime": "2026-05-06 09:27:01"
+      },
+      "701362": {
+        "slug": "activity-selection-1587115620",
+        "pname": "Activity Selection",
+        "lang": "java",
+        "user_subtime": "2026-04-03 16:41:22"
+      },
+      "701367": {
+        "slug": "job-sequencing-problem-1587115620",
+        "pname": "Job Sequencing Problem",
+        "lang": "java",
+        "user_subtime": "2026-05-05 18:49:27"
+      },
+      "703334": {
+        "slug": "minimum-swaps-required-to-group-all-1s-together2451",
+        "pname": "Min Swaps to Group 1s",
+        "lang": "java",
+        "user_subtime": "2026-04-29 23:50:04"
+      },
+      "712141": {
+        "slug": "longest-repeating-character-replacement",
+        "pname": "Longest Repeating Character Replacement",
+        "lang": "java",
+        "user_subtime": "2026-04-28 23:34:31"
+      },
+      "712175": {
+        "slug": "opposite-sign-pair-reduction",
+        "pname": "Opposite Sign Pair Reduction",
+        "lang": "java",
+        "user_subtime": "2026-03-19 23:10:02"
+      },
+      "705097": {
+        "slug": "two-water-jug-problem3402",
+        "pname": "Two water Jug problem",
+        "lang": "java",
+        "user_subtime": "2026-04-21 22:33:04"
+      },
+      "701353": {
+        "slug": "kth-largest-element5034",
+        "pname": "Kth largest element",
+        "lang": "java",
+        "user_subtime": "2026-04-03 17:09:16"
+      },
+      "703185": {
+        "slug": "k-largest-elements4206",
+        "pname": "k Largest Elements",
+        "lang": "java",
+        "user_subtime": "2026-04-04 14:37:38"
+      },
+      "701428": {
+        "slug": "longest-increasing-subsequence-1587115620",
+        "pname": "Longest Increasing Subsequence",
+        "lang": "java",
+        "user_subtime": "2026-04-04 14:27:42"
+      },
+      "706104": {
+        "slug": "jump-game",
+        "pname": "Jump Game",
+        "lang": "java",
+        "user_subtime": "2026-04-11 10:50:27"
+      },
+      "712538": {
+        "slug": "shortest-job-first",
+        "pname": "Shortest Job first",
+        "lang": "java",
+        "user_subtime": "2026-04-11 10:33:07"
+      },
+      "712207": {
+        "slug": "aggressive-cows",
+        "pname": "Aggressive Cows",
+        "lang": "java",
+        "user_subtime": "2026-04-09 23:56:54"
+      },
+      "712383": {
+        "slug": "number-of-longest-increasing-subsequence",
+        "pname": "Number of Longest Increasing Subsequence",
+        "lang": "java",
+        "user_subtime": "2026-04-07 23:54:09"
+      },
+      "704595": {
+        "slug": "longest-bitonic-subsequence0824",
+        "pname": "Longest Bitonic Subsequence",
+        "lang": "java",
+        "user_subtime": "2026-04-07 23:42:50"
+      },
+      "712573": {
+        "slug": "longest-string-chain",
+        "pname": "Longest String Chain",
+        "lang": "java",
+        "user_subtime": "2026-04-07 18:40:01"
+      },
+      "712816": {
+        "slug": "largest-divisible-subset--170643",
+        "pname": "Largest Divisible Subset",
+        "lang": "java",
+        "user_subtime": "2026-04-07 10:31:00"
+      },
+      "712574": {
+        "slug": "printing-longest-increasing-subsequence",
+        "pname": "Print Longest Increasing Subsequence",
+        "lang": "java",
+        "user_subtime": "2026-04-06 10:25:52"
+      },
+      "701747": {
+        "slug": "kth-smallest-element5635",
+        "pname": "Kth Smallest",
+        "lang": "java",
+        "user_subtime": "2025-11-09 21:40:54"
+      },
+      "701365": {
+        "slug": "fractional-knapsack-1587115620",
+        "pname": "Fractional Knapsack",
+        "lang": "java",
+        "user_subtime": "2026-04-02 17:00:26"
+      },
+      "925584": {
+        "slug": "aggressive-cows--142004",
+        "pname": "Aggressive Cows",
+        "lang": "java",
+        "user_subtime": "2026-04-02 16:03:04"
+      },
+      "704022": {
+        "slug": "minimum-number-of-deletions-and-insertions0209",
+        "pname": "Minimum number of deletions and insertions",
+        "lang": "java",
+        "user_subtime": "2026-04-02 00:26:20"
+      },
+      "706178": {
+        "slug": "form-a-palindrome2544",
+        "pname": "Form a palindrome",
+        "lang": "java",
+        "user_subtime": "2026-03-31 15:02:25"
+      },
+      "704573": {
+        "slug": "subset-sum-problem2014",
+        "pname": "Partition Equal Subset Sum",
+        "lang": "java",
+        "user_subtime": "2026-03-27 14:46:24"
+      },
+      "706123": {
+        "slug": "subset-sum-problem-1611555638",
+        "pname": "Subset Sum Problem",
+        "lang": "java",
+        "user_subtime": "2026-02-11 15:50:53"
+      },
+      "704100": {
+        "slug": "coin-change2448",
+        "pname": "Coin Change (Count Ways)",
+        "lang": "java",
+        "user_subtime": "2026-03-30 01:02:47"
+      },
+      "701431": {
+        "slug": "0-1-knapsack-problem0945",
+        "pname": "0 - 1 Knapsack Problem",
+        "lang": "java",
+        "user_subtime": "2026-03-25 18:11:19"
+      },
+      "706172": {
+        "slug": "longest-palindrome-in-a-string1956",
+        "pname": "Longest Palindromic Substring",
+        "lang": "java",
+        "user_subtime": "2026-04-01 23:14:25"
+      },
+      "703341": {
+        "slug": "lcs-of-three-strings0028",
+        "pname": "LCS of Three Strings",
+        "lang": "java",
+        "user_subtime": "2026-03-30 22:21:53"
+      },
+      "703355": {
+        "slug": "longest-palindromic-subsequence-1612327878",
+        "pname": "Longest Palindromic Subsequence",
+        "lang": "java",
+        "user_subtime": "2026-03-30 19:52:28"
+      },
+      "885648": {
+        "slug": "merge-two-sorted-linked-lists--120222",
+        "pname": "Merge two sorted linked lists",
+        "lang": "java",
+        "user_subtime": "2026-03-30 16:27:51"
+      },
+      "703201": {
+        "slug": "longest-common-substring1452",
+        "pname": "Longest Common Substring",
+        "lang": "java",
+        "user_subtime": "2026-03-30 10:44:59"
+      },
+      "703296": {
+        "slug": "rod-cutting0840",
+        "pname": "Rod Cutting",
+        "lang": "java",
+        "user_subtime": "2026-03-30 10:10:37"
+      },
+      "704512": {
+        "slug": "knapsack-with-duplicate-items4201",
+        "pname": "Knapsack with Duplicate Items",
+        "lang": "java",
+        "user_subtime": "2026-03-30 09:27:14"
+      },
+      "708220": {
+        "slug": "target-sum-1626326450",
+        "pname": "Target Sum",
+        "lang": "java",
+        "user_subtime": "2026-03-29 23:47:57"
+      },
+      "912664": {
+        "slug": "count-the-subset-with-sum-equal-to-k",
+        "pname": "Count Subset With Target Sum II",
+        "lang": "java",
+        "user_subtime": "2026-03-28 17:44:28"
+      },
+      "704179": {
+        "slug": "number-of-coins1824",
+        "pname": "Coin Change (Minimum Coins)",
+        "lang": "java",
+        "user_subtime": "2026-03-28 12:39:25"
+      },
+      "712675": {
+        "slug": "partitions-with-given-difference",
+        "pname": "Partitions with Given Difference",
+        "lang": "java",
+        "user_subtime": "2026-03-28 10:28:24"
+      },
+      "704213": {
+        "slug": "perfect-sum-problem5633",
+        "pname": "Perfect Sum Problem",
+        "lang": "java",
+        "user_subtime": "2026-03-28 00:06:19"
+      },
+      "924466": {
+        "slug": "find-length-of-loop--140011",
+        "pname": "Find length of Loop",
+        "lang": "java",
+        "user_subtime": "2026-03-27 15:35:01"
+      },
+      "914456": {
+        "slug": "minimum-sum-in-a-falling-path",
+        "pname": "Minimum Sum in a Falling Path",
+        "lang": "java",
+        "user_subtime": "2026-03-27 09:37:39"
+      },
+      "712699": {
+        "slug": "triangle-path-sum",
+        "pname": "Triangle Path Sum",
+        "lang": "java",
+        "user_subtime": "2026-03-26 16:48:18"
+      },
+      "713969": {
+        "slug": "unique-paths-in-a-grid--170647",
+        "pname": "Unique Paths in a Grid",
+        "lang": "java",
+        "user_subtime": "2026-03-18 14:54:53"
+      },
+      "712183": {
+        "slug": "geeks-training",
+        "pname": "Geek's Training",
+        "lang": "java",
+        "user_subtime": "2026-03-26 15:02:37"
+      },
+      "924269": {
+        "slug": "find-length-of-loop--114431",
+        "pname": "Find length of Loop",
+        "lang": "java",
+        "user_subtime": "2026-03-25 15:43:15"
+      },
+      "712511": {
+        "slug": "house-robber-ii",
+        "pname": "Stickler Thief II",
+        "lang": "java",
+        "user_subtime": "2026-03-25 09:44:40"
+      },
+      "702073": {
+        "slug": "word-break1352",
+        "pname": "Word Break",
+        "lang": "java",
+        "user_subtime": "2026-03-24 22:59:43"
+      },
+      "701374": {
+        "slug": "m-coloring-problem-1587115620",
+        "pname": "M-Coloring Problem",
+        "lang": "java",
+        "user_subtime": "2026-03-24 22:23:35"
+      },
+      "924240": {
+        "slug": "majority-element-1587115620--121935",
+        "pname": "Majority Element",
+        "lang": "java",
+        "user_subtime": "2026-03-24 16:31:53"
+      },
+      "712211": {
+        "slug": "check-if-there-exists-a-subsequence-with-sum-k",
+        "pname": "Subsequence with Sum K",
+        "lang": "java",
+        "user_subtime": "2026-03-24 16:18:17"
+      },
+      "703569": {
+        "slug": "permutations-of-a-given-string2041",
+        "pname": "Distinct Permutations of a String",
+        "lang": "java",
+        "user_subtime": "2026-03-24 12:48:28"
+      },
+      "715457": {
+        "slug": "find-kth-permutation-0932",
+        "pname": "Kth Permutation",
+        "lang": "java",
+        "user_subtime": "2026-03-24 11:40:58"
+      },
+      "704723": {
+        "slug": "subset-sums2234",
+        "pname": "Subset Sums",
+        "lang": "java",
+        "user_subtime": "2026-03-24 10:14:13"
+      },
+      "712223": {
+        "slug": "combination-sum-ii-1664263832",
+        "pname": "Combination Sum Without Repetition",
+        "lang": "java",
+        "user_subtime": "2026-02-11 10:39:59"
+      },
+      "703691": {
+        "slug": "string-subsequence-game5515",
+        "pname": "Subsequences Start with Vowel and End with Consonant",
+        "lang": "java",
+        "user_subtime": "2026-03-23 23:07:45"
+      },
+      "704428": {
+        "slug": "power-set4302",
+        "pname": "All Subsequences of a String",
+        "lang": "java",
+        "user_subtime": "2026-03-23 22:25:52"
+      },
+      "701750": {
+        "slug": "shortest-common-supersequence0322",
+        "pname": "Shortest Common Supersequence",
+        "lang": "java",
+        "user_subtime": "2026-03-23 10:40:07"
+      },
+      "712193": {
+        "slug": "sum-of-subarray-ranges",
+        "pname": "Sum of subarray ranges",
+        "lang": "java",
+        "user_subtime": "2026-03-23 10:17:32"
+      },
+      "712173": {
+        "slug": "sum-of-subarray-minimum",
+        "pname": "Sum of subarray minimums",
+        "lang": "java",
+        "user_subtime": "2026-03-11 10:00:06"
+      },
+      "700386": {
+        "slug": "implement-atoi",
+        "pname": "Implement Atoi",
+        "lang": "java",
+        "user_subtime": "2026-03-22 23:46:17"
+      },
+      "701429": {
+        "slug": "longest-common-subsequence-1587115620",
+        "pname": "Longest Common Subsequence",
+        "lang": "java",
+        "user_subtime": "2026-03-20 16:56:50"
+      },
+      "700253": {
+        "slug": "the-celebrity-problem",
+        "pname": "The Celebrity Problem",
+        "lang": "java",
+        "user_subtime": "2026-03-20 12:13:51"
+      },
+      "701349": {
+        "slug": "maximum-of-all-subarrays-of-size-k3101",
+        "pname": "K Sized Subarray Maximum",
+        "lang": "java",
+        "user_subtime": "2026-03-20 10:56:02"
+      },
+      "706289": {
+        "slug": "remove-k-digits",
+        "pname": "Remove K Digits",
+        "lang": "java",
+        "user_subtime": "2026-03-20 00:44:31"
+      },
+      "711092": {
+        "slug": "minimum-multiplications-to-reach-end",
+        "pname": "Minimum Multiplications to reach End",
+        "lang": "java",
+        "user_subtime": "2026-03-19 18:12:34"
+      },
+      "923809": {
+        "slug": "minimum-sum--211657",
+        "pname": "Minimum Sum",
+        "lang": "java",
+        "user_subtime": "2026-03-19 12:52:31"
+      },
+      "711088": {
+        "slug": "shortest-path-in-a-binary-maze-1655453161",
+        "pname": "Shortest Distance in a Binary Maze",
+        "lang": "java",
+        "user_subtime": "2026-03-19 10:33:36"
+      },
+      "712228": {
+        "slug": "shortest-path-in-weighted-undirected-graph",
+        "pname": "Shortest Path in an Undirected Graph",
+        "lang": "java",
+        "user_subtime": "2026-03-19 10:14:03"
+      },
+      "704559": {
+        "slug": "path-in-matrix3805",
+        "pname": "Maximum path sum in matrix",
+        "lang": "java",
+        "user_subtime": "2026-03-18 22:41:27"
+      },
+      "923716": {
+        "slug": "count-ways-to-reach-the-nth-stair-1587115620--113402",
+        "pname": "Ways to Reach the n'th Stair",
+        "lang": "java",
+        "user_subtime": "2026-03-18 15:38:46"
+      },
+      "704431": {
+        "slug": "count-ways-to-nth-stairorder-does-not-matter5639",
+        "pname": "Count ways to N'th Stair(Order does not matter)",
+        "lang": "java",
+        "user_subtime": "2026-03-18 14:15:23"
+      },
+      "911212": {
+        "slug": "previous-greater-element",
+        "pname": "Previous Greater Element",
+        "lang": "java",
+        "user_subtime": "2026-03-18 11:56:44"
+      },
+      "703052": {
+        "slug": "immediate-smaller-element1142",
+        "pname": "Next Smaller Element",
+        "lang": "java",
+        "user_subtime": "2026-03-18 11:51:58"
+      },
+      "911214": {
+        "slug": "previous-smaller-element",
+        "pname": "Previous Smaller Element",
+        "lang": "java",
+        "user_subtime": "2026-03-18 10:11:12"
+      },
+      "700278": {
+        "slug": "get-minimum-element-from-stack",
+        "pname": "Get Min from Stack",
+        "lang": "java",
+        "user_subtime": "2026-03-17 20:17:07"
+      },
+      "712246": {
+        "slug": "prefix-to-postfix-conversion",
+        "pname": "Prefix to Postfix Conversion",
+        "lang": "java",
+        "user_subtime": "2026-03-17 19:44:10"
+      },
+      "711970": {
+        "slug": "shortest-path-with-at-most-k-nodes",
+        "pname": "Shortest Path with at most k Nodes",
+        "lang": "java",
+        "user_subtime": "2026-03-17 19:33:38"
+      },
+      "890078": {
+        "slug": "network-delay-time",
+        "pname": "Network Delay Time",
+        "lang": "java",
+        "user_subtime": "2026-03-17 18:34:44"
+      },
+      "923636": {
+        "slug": "generate-all-binary-strings--124216",
+        "pname": "Generate all binary strings",
+        "lang": "java",
+        "user_subtime": "2026-03-17 15:57:59"
+      },
+      "701417": {
+        "slug": "stickler-theif-1587115621",
+        "pname": "Stickler Thief",
+        "lang": "java",
+        "user_subtime": "2026-03-17 15:27:36"
+      },
+      "712174": {
+        "slug": "geek-jump",
+        "pname": "Frog Jump",
+        "lang": "java",
+        "user_subtime": "2025-11-04 23:45:41"
+      },
+      "701418": {
+        "slug": "count-ways-to-reach-the-nth-stair-1587115620",
+        "pname": "Ways to Reach the n'th Stair",
+        "lang": "java",
+        "user_subtime": "2026-03-17 14:15:14"
+      },
+      "903570": {
+        "slug": "infix-to-prefix-notation",
+        "pname": "Infix To Prefix Notation",
+        "lang": "java",
+        "user_subtime": "2026-03-17 10:44:14"
+      },
+      "701345": {
+        "slug": "infix-to-postfix-1587115620",
+        "pname": "Infix to Postfix",
+        "lang": "java",
+        "user_subtime": "2026-03-17 10:28:18"
+      },
+      "923600": {
+        "slug": "rotten-oranges2536--111052",
+        "pname": "Rotten Oranges",
+        "lang": "java",
+        "user_subtime": "2026-03-16 16:05:52"
+      },
+      "700208": {
+        "slug": "implement-stack-using-array",
+        "pname": "Implement stack using array",
+        "lang": "java",
+        "user_subtime": "2026-03-16 11:40:54"
+      },
+      "700023": {
+        "slug": "rotate-a-linked-list",
+        "pname": "Rotate a Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-15 19:04:47"
+      },
+      "706550": {
+        "slug": "design-browser-history",
+        "pname": "Design Browser History",
+        "lang": "java",
+        "user_subtime": "2026-03-15 18:57:24"
+      },
+      "706394": {
+        "slug": "insertion-sort-for-singly-linked-list",
+        "pname": "Sort Singly Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-15 16:15:44"
+      },
+      "700523": {
+        "slug": "sort-a-linked-list",
+        "pname": "Merge Sort for Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-15 16:10:15"
+      },
+      "700265": {
+        "slug": "merge-k-sorted-linked-lists",
+        "pname": "Merge K sorted linked lists",
+        "lang": "java",
+        "user_subtime": "2026-03-15 15:25:22"
+      },
+      "700192": {
+        "slug": "flattening-a-linked-list",
+        "pname": "Flattening a Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-15 15:08:15"
+      },
+      "700176": {
+        "slug": "merge-two-sorted-linked-lists",
+        "pname": "Merge two sorted linked lists",
+        "lang": "java",
+        "user_subtime": "2026-03-15 14:38:41"
+      },
+      "712304": {
+        "slug": "delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list",
+        "pname": "Delete all occurrences in a doubly linked list",
+        "lang": "java",
+        "user_subtime": "2026-03-14 19:51:44"
+      },
+      "713150": {
+        "slug": "find-the-first-node-of-loop-in-linked-list--170645",
+        "pname": "First Node of Loop in Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-14 19:12:24"
+      },
+      "700620": {
+        "slug": "find-length-of-loop",
+        "pname": "Find length of Loop",
+        "lang": "java",
+        "user_subtime": "2025-09-06 23:44:24"
+      },
+      "700099": {
+        "slug": "detect-loop-in-linked-list",
+        "pname": "Detect Loop in linked list",
+        "lang": "java",
+        "user_subtime": "2026-03-14 16:39:50"
+      },
+      "700163": {
+        "slug": "intersection-point-in-y-shapped-linked-lists",
+        "pname": "Intersection in Y Shaped Lists",
+        "lang": "java",
+        "user_subtime": "2026-03-14 16:22:24"
+      },
+      "700053": {
+        "slug": "add-1-to-a-number-represented-as-linked-list",
+        "pname": "Add 1 to a Linked List Number",
+        "lang": "java",
+        "user_subtime": "2026-03-14 15:22:27"
+      },
+      "700391": {
+        "slug": "check-if-linked-list-is-pallindrome",
+        "pname": "Palindrome Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-14 14:59:11"
+      },
+      "700028": {
+        "slug": "given-a-linked-list-of-0s-1s-and-2s-sort-it",
+        "pname": "Sort a linked list of 0s, 1s and 2s",
+        "lang": "java",
+        "user_subtime": "2026-03-14 10:46:59"
+      },
+      "700045": {
+        "slug": "rearrange-a-linked-list",
+        "pname": "Rearrange a linked list",
+        "lang": "java",
+        "user_subtime": "2026-03-14 00:02:42"
+      },
+      "703043": {
+        "slug": "longest-sub-array-with-sum-k0809",
+        "pname": "Longest Subarray with Sum K",
+        "lang": "java",
+        "user_subtime": "2026-03-13 23:00:33"
+      },
+      "923422": {
+        "slug": "rat-in-a-maze-problem--105216",
+        "pname": "Rat in a Maze",
+        "lang": "java",
+        "user_subtime": "2026-03-13 16:11:47"
+      },
+      "700292": {
+        "slug": "generate-ip-addresses",
+        "pname": "Generate IP Addresses",
+        "lang": "java",
+        "user_subtime": "2026-03-13 14:35:27"
+      },
+      "700043": {
+        "slug": "add-two-numbers-represented-by-linked-lists",
+        "pname": "Add Number Linked Lists",
+        "lang": "java",
+        "user_subtime": "2026-03-13 14:23:33"
+      },
+      "700334": {
+        "slug": "implementing-dijkstra-set-1-adjacency-matrix",
+        "pname": "Dijkstra Algorithm",
+        "lang": "java",
+        "user_subtime": "2026-03-12 17:21:50"
+      },
+      "705582": {
+        "slug": "replace-os-with-xs0052",
+        "pname": "Replace O's with X's",
+        "lang": "java",
+        "user_subtime": "2025-10-30 16:20:32"
+      },
+      "712030": {
+        "slug": "shortest-path-in-directed-acyclic-graph",
+        "pname": "Shortest path in Directed Acyclic Graph",
+        "lang": "java",
+        "user_subtime": "2026-03-13 09:52:39"
+      },
+      "911711": {
+        "slug": "subarrays-with-first-element-minimum",
+        "pname": "Subarrays with First Element Minimum",
+        "lang": "java",
+        "user_subtime": "2026-03-12 17:35:38"
+      },
+      "923378": {
+        "slug": "detect-cycle-in-an-undirected-graph--125111",
+        "pname": "Undirected Graph Cycle",
+        "lang": "java",
+        "user_subtime": "2026-03-12 16:18:41"
+      },
+      "711976": {
+        "slug": "shortest-path-in-undirected-graph-having-unit-distance",
+        "pname": "Shortest Path in Unweighted Graph",
+        "lang": "java",
+        "user_subtime": "2026-03-12 15:30:28"
+      },
+      "700410": {
+        "slug": "bipartite-graph",
+        "pname": "Bipartite Graph",
+        "lang": "java",
+        "user_subtime": "2026-03-12 11:01:18"
+      },
+      "711095": {
+        "slug": "eventual-safe-states",
+        "pname": "Safe States",
+        "lang": "java",
+        "user_subtime": "2025-11-03 19:55:49"
+      },
+      "707516": {
+        "slug": "course-schedule",
+        "pname": "Course Schedule II",
+        "lang": "java",
+        "user_subtime": "2025-11-01 23:32:35"
+      },
+      "913652": {
+        "slug": "course-schedule-i",
+        "pname": "Course Schedule I",
+        "lang": "java",
+        "user_subtime": "2026-03-12 09:22:20"
+      },
+      "923232": {
+        "slug": "majority-element-1587115620--131946",
+        "pname": "Majority Element",
+        "lang": "java",
+        "user_subtime": "2026-03-11 15:51:54"
+      },
+      "707672": {
+        "slug": "clone-graph",
+        "pname": "Clone an Undirected Graph",
+        "lang": "java",
+        "user_subtime": "2026-03-11 12:04:43"
+      },
+      "705720": {
+        "slug": "flood-fill-algorithm1856",
+        "pname": "Flood fill Algorithm",
+        "lang": "java",
+        "user_subtime": "2026-03-11 10:32:23"
+      },
+      "700255": {
+        "slug": "topological-sort",
+        "pname": "Topological Sort",
+        "lang": "java",
+        "user_subtime": "2026-03-11 12:26:11"
+      },
+      "700218": {
+        "slug": "detect-cycle-in-a-directed-graph",
+        "pname": "Directed Graph Cycle",
+        "lang": "java",
+        "user_subtime": "2026-03-10 23:22:41"
+      },
+      "700463": {
+        "slug": "bridge-edge-in-graph",
+        "pname": "Bridge edge in a graph",
+        "lang": "java",
+        "user_subtime": "2026-03-11 11:25:03"
+      },
+      "700273": {
+        "slug": "find-the-number-of-islands",
+        "pname": "Count Islands",
+        "lang": "java",
+        "user_subtime": "2026-03-10 15:25:39"
+      },
+      "700219": {
+        "slug": "detect-cycle-in-an-undirected-graph",
+        "pname": "Undirected Graph Cycle",
+        "lang": "java",
+        "user_subtime": "2026-03-02 23:50:08"
+      },
+      "701754": {
+        "slug": "rotten-oranges2536",
+        "pname": "Rotten Oranges",
+        "lang": "java",
+        "user_subtime": "2026-03-10 22:40:00"
+      },
+      "706298": {
+        "slug": "number-of-provinces",
+        "pname": "Number of Connected Components",
+        "lang": "java",
+        "user_subtime": "2026-03-10 18:31:13"
+      },
+      "923208": {
+        "slug": "kadanes-algorithm-1587115620--125945",
+        "pname": "Kadane's Algorithm",
+        "lang": "java",
+        "user_subtime": "2026-03-10 15:39:01"
+      },
+      "876294": {
+        "slug": "connected-components-in-an-undirected-graph",
+        "pname": "Connected Components in an Undirected Graph",
+        "lang": "java",
+        "user_subtime": "2026-03-10 14:28:06"
+      },
+      "923182": {
+        "slug": "row-with-max-1s0023--144649",
+        "pname": "Row with Max 1s in Rowwise Sorted",
+        "lang": "java",
+        "user_subtime": "2026-03-09 15:41:55"
+      },
+      "700236": {
+        "slug": "lowest-common-ancestor-in-a-bst",
+        "pname": "Lowest Common Ancestor in a BST",
+        "lang": "java",
+        "user_subtime": "2026-02-25 15:13:42"
+      },
+      "700550": {
+        "slug": "find-a-pair-with-given-target-in-bst",
+        "pname": "Pair Sum in BST",
+        "lang": "java",
+        "user_subtime": "2026-02-27 12:00:38"
+      },
+      "700498": {
+        "slug": "find-k-th-smallest-element-in-bst",
+        "pname": "k-th Smallest in BST",
+        "lang": "java",
+        "user_subtime": "2026-02-27 14:04:10"
+      },
+      "700149": {
+        "slug": "check-for-bst",
+        "pname": "Check for BST",
+        "lang": "java",
+        "user_subtime": "2026-02-25 22:37:00"
+      },
+      "700575": {
+        "slug": "k-sum-paths",
+        "pname": "K Sum Paths",
+        "lang": "java",
+        "user_subtime": "2026-02-22 18:59:19"
+      },
+      "700611": {
+        "slug": "maximum-path-sum-from-any-node",
+        "pname": "Maximum path sum",
+        "lang": "java",
+        "user_subtime": "2026-02-20 23:05:11"
+      },
+      "700204": {
+        "slug": "boundary-traversal-of-binary-tree",
+        "pname": "Tree Boundary Traversal",
+        "lang": "java",
+        "user_subtime": "2026-02-22 17:42:17"
+      },
+      "700586": {
+        "slug": "construct-tree-1",
+        "pname": "Construct Tree from Inorder & Preorder",
+        "lang": "java",
+        "user_subtime": "2026-02-22 13:02:40"
+      },
+      "700165": {
+        "slug": "diameter-of-binary-tree",
+        "pname": "Diameter of a Binary Tree",
+        "lang": "java",
+        "user_subtime": "2026-02-20 15:18:44"
+      },
+      "700511": {
+        "slug": "level-order-traversal",
+        "pname": "Level order traversal",
+        "lang": "java",
+        "user_subtime": "2026-02-19 15:16:04"
+      },
+      "702805": {
+        "slug": "pythagorean-triplet3018",
+        "pname": "Pythagorean Triplet",
+        "lang": "java",
+        "user_subtime": "2026-03-08 17:29:46"
+      },
+      "704185": {
+        "slug": "dice-throw5349",
+        "pname": "Dice throw",
+        "lang": "java",
+        "user_subtime": "2026-03-08 17:29:00"
+      },
+      "703219": {
+        "slug": "longest-k-unique-characters-substring0853",
+        "pname": "Longest Substring with K Uniques",
+        "lang": "java",
+        "user_subtime": "2026-03-05 18:22:44"
+      },
+      "906883": {
+        "slug": "max-xor-subarray-of-size-k",
+        "pname": "Max Xor Subarray of size K",
+        "lang": "java",
+        "user_subtime": "2026-03-04 20:50:59"
+      },
+      "712123": {
+        "slug": "longest-subarray-with-atmost-two-distinct-integers",
+        "pname": "Longest subarray with Atmost two distinct integers",
+        "lang": "java",
+        "user_subtime": "2026-03-03 14:53:34"
+      },
+      "922408": {
+        "slug": "find-k-th-smallest-element-in-bst--141334",
+        "pname": "k-th Smallest in BST",
+        "lang": "java",
+        "user_subtime": "2026-02-28 15:33:19"
+      },
+      "922389": {
+        "slug": "kth-common-ancestor-in-bst--123413",
+        "pname": "Kth common ancestor in BST",
+        "lang": "java",
+        "user_subtime": "2026-02-27 16:18:06"
+      },
+      "701393": {
+        "slug": "minimum-number-of-jumps-1587115620",
+        "pname": "Minimum Jumps",
+        "lang": "java",
+        "user_subtime": "2025-09-11 23:23:42"
+      },
+      "700256": {
+        "slug": "print-a-binary-tree-in-vertical-order",
+        "pname": "Vertical Tree Traversal",
+        "lang": "java",
+        "user_subtime": "2026-02-27 00:13:47"
+      },
+      "700454": {
+        "slug": "root-to-leaf-paths-sum",
+        "pname": "Root to leaf paths sum",
+        "lang": "java",
+        "user_subtime": "2026-02-26 14:15:32"
+      },
+      "702074": {
+        "slug": "stock-buy-and-sell2615",
+        "pname": "Stock Buy and Sell \u2013 Multiple Transaction Allowed",
+        "lang": "java",
+        "user_subtime": "2026-02-25 23:54:55"
+      },
+      "702919": {
+        "slug": "maximum-product-subarray3604",
+        "pname": "Maximum Product Subarray",
+        "lang": "java",
+        "user_subtime": "2026-02-25 23:02:36"
+      },
+      "882031": {
+        "slug": "longest-subarray-with-majority-greater-than-k",
+        "pname": "Longest Subarray with Majority Greater than K",
+        "lang": "java",
+        "user_subtime": "2026-02-25 21:33:36"
+      },
+      "922267": {
+        "slug": "diameter-of-binary-tree--125333",
+        "pname": "Diameter of a Binary Tree",
+        "lang": "java",
+        "user_subtime": "2026-02-25 15:59:46"
+      },
+      "702727": {
+        "slug": "longest-span-with-same-sum-in-two-binary-arrays5142",
+        "pname": "Longest Span in two Binary Arrays",
+        "lang": "java",
+        "user_subtime": "2026-02-24 23:53:23"
+      },
+      "700593": {
+        "slug": "node-at-distance",
+        "pname": "Count Nodes at Distance K From Leaf",
+        "lang": "java",
+        "user_subtime": "2026-02-24 21:04:40"
+      },
+      "922242": {
+        "slug": "word-search--144003",
+        "pname": "Word Search",
+        "lang": "java",
+        "user_subtime": "2026-02-24 16:10:05"
+      },
+      "700221": {
+        "slug": "lowest-common-ancestor-in-a-binary-tree",
+        "pname": "LCA in  Binary Tree",
+        "lang": "java",
+        "user_subtime": "2026-02-24 15:00:20"
+      },
+      "922132": {
+        "slug": "replace-every-element-with-the-least-greater-element-on-its-right--150331",
+        "pname": "Replace with Least Greater on Right",
+        "lang": "java",
+        "user_subtime": "2026-02-23 16:36:06"
+      },
+      "899286": {
+        "slug": "2d-submatrix-sum-queries",
+        "pname": "2D Submatrix Sum Queries",
+        "lang": "java",
+        "user_subtime": "2026-02-22 12:13:42"
+      },
+      "700688": {
+        "slug": "zigzag-tree-traversal",
+        "pname": "ZigZag Tree Traversal",
+        "lang": "java",
+        "user_subtime": "2025-10-10 23:23:57"
+      },
+      "921801": {
+        "slug": "merge-two-sorted-linked-lists--154103",
+        "pname": "Merge two sorted linked lists",
+        "lang": "java",
+        "user_subtime": "2026-02-19 16:57:15"
+      },
+      "701226": {
+        "slug": "inversion-of-array-1587115620",
+        "pname": "Count Inversions",
+        "lang": "java",
+        "user_subtime": "2026-02-16 16:30:38"
+      },
+      "701244": {
+        "slug": "merge-three-sorted-arrays-1587115620",
+        "pname": "Merge three sorted arrays",
+        "lang": "java",
+        "user_subtime": "2026-02-17 22:56:57"
+      },
+      "921671": {
+        "slug": "minimum-days-to-make-m-bouquets--143709",
+        "pname": "Minimum days to make M bouquets",
+        "lang": "java",
+        "user_subtime": "2026-02-17 15:45:39"
+      },
+      "921670": {
+        "slug": "quick-sort--143644",
+        "pname": "Quick Sort",
+        "lang": "java",
+        "user_subtime": "2026-02-17 15:33:29"
+      },
+      "700151": {
+        "slug": "quick-sort",
+        "pname": "Quick Sort",
+        "lang": "java",
+        "user_subtime": "2026-02-17 15:21:41"
+      },
+      "921656": {
+        "slug": "merge-sort--142952",
+        "pname": "Merge Sort",
+        "lang": "java",
+        "user_subtime": "2026-02-16 15:42:16"
+      },
+      "701243": {
+        "slug": "merge-two-sorted-arrays-1587115620",
+        "pname": "Merge Without Extra Space",
+        "lang": "java",
+        "user_subtime": "2026-02-16 15:19:56"
+      },
+      "700150": {
+        "slug": "merge-sort",
+        "pname": "Merge Sort",
+        "lang": "java",
+        "user_subtime": "2026-02-16 14:57:31"
+      },
+      "701220": {
+        "slug": "majority-element-1587115620",
+        "pname": "Majority Element",
+        "lang": "java",
+        "user_subtime": "2026-02-15 02:01:59"
+      },
+      "701239": {
+        "slug": "sort-an-array-of-0s-1s-and-2s-1587115621",
+        "pname": "Sort 0s, 1s and 2s",
+        "lang": "java",
+        "user_subtime": "2026-02-15 01:01:36"
+      },
+      "702382": {
+        "slug": "sort-an-array-of-0s-1s-and-2s4231",
+        "pname": "Sort 0s, 1s and 2s",
+        "lang": "java",
+        "user_subtime": "2025-11-08 22:43:20"
+      },
+      "921555": {
+        "slug": "koko-eating-bananas--150803",
+        "pname": "Koko Eating Bananas",
+        "lang": "java",
+        "user_subtime": "2026-02-13 15:44:25"
+      },
+      "921556": {
+        "slug": "peak-element--150846",
+        "pname": "Peak element",
+        "lang": "java",
+        "user_subtime": "2026-02-13 15:35:44"
+      },
+      "700512": {
+        "slug": "peak-element",
+        "pname": "Peak element",
+        "lang": "java",
+        "user_subtime": "2026-02-13 12:25:49"
+      },
+      "712107": {
+        "slug": "koko-eating-bananas",
+        "pname": "Koko Eating Bananas",
+        "lang": "java",
+        "user_subtime": "2026-02-13 14:50:30"
+      },
+      "874780": {
+        "slug": "kth-missing-positive-number-in-a-sorted-array",
+        "pname": "Kth Missing Positive Number in a Sorted Array",
+        "lang": "java",
+        "user_subtime": "2026-02-13 11:55:51"
+      },
+      "921507": {
+        "slug": "combination-sum-ii--143628",
+        "pname": "Combination Sum Without Repetition",
+        "lang": "java",
+        "user_subtime": "2026-02-12 15:51:09"
+      },
+      "921506": {
+        "slug": "combination-sum-1587115620--143324",
+        "pname": "Target Sum Combinations",
+        "lang": "java",
+        "user_subtime": "2026-02-12 15:34:56"
+      },
+      "921499": {
+        "slug": "subset-sum-ii--151500",
+        "pname": "Distinct Subsets",
+        "lang": "java",
+        "user_subtime": "2026-02-11 16:18:58"
+      },
+      "700408": {
+        "slug": "rat-in-a-maze-problem",
+        "pname": "Rat in a Maze",
+        "lang": "java",
+        "user_subtime": "2025-10-05 22:30:44"
+      },
+      "701372": {
+        "slug": "combination-sum-1587115620",
+        "pname": "Target Sum Combinations",
+        "lang": "java",
+        "user_subtime": "2026-02-11 10:11:25"
+      },
+      "702078": {
+        "slug": "generate-all-possible-parentheses",
+        "pname": "Generate Parentheses",
+        "lang": "java",
+        "user_subtime": "2026-02-10 15:16:27"
+      },
+      "703459": {
+        "slug": "first-and-last-occurrences-of-x3116",
+        "pname": "First and Last in Sorted",
+        "lang": "java",
+        "user_subtime": "2026-02-10 10:28:13"
+      },
+      "712209": {
+        "slug": "subset-sum-ii",
+        "pname": "Distinct Subsets",
+        "lang": "java",
+        "user_subtime": "2026-02-10 09:52:38"
+      },
+      "706426": {
+        "slug": "subsets-1613027340",
+        "pname": "Subsets",
+        "lang": "java",
+        "user_subtime": "2026-02-09 23:06:34"
+      },
+      "916694": {
+        "slug": "subsets-1613027340--102113",
+        "pname": "Subsets",
+        "lang": "java",
+        "user_subtime": "2025-12-02 12:44:06"
+      },
+      "712100": {
+        "slug": "majority-vote",
+        "pname": "Majority Element - More Than n/3",
+        "lang": "java",
+        "user_subtime": "2025-11-28 19:22:54"
+      },
+      "701192": {
+        "slug": "smallest-positive-missing-number-1587115621",
+        "pname": "Smallest Positive Missing",
+        "lang": "java",
+        "user_subtime": "2025-11-28 19:09:21"
+      },
+      "703444": {
+        "slug": "minimize-the-heights3351",
+        "pname": "Minimize the Heights II",
+        "lang": "java",
+        "user_subtime": "2025-09-12 21:29:28"
+      },
+      "701215": {
+        "slug": "kadanes-algorithm-1587115620",
+        "pname": "Kadane's Algorithm",
+        "lang": "java",
+        "user_subtime": "2025-09-27 11:55:27"
+      },
+      "916503": {
+        "slug": "kadanes-algorithm-1587115620--110120",
+        "pname": "Kadane's Algorithm",
+        "lang": "java",
+        "user_subtime": "2025-11-25 11:55:17"
+      },
+      "916504": {
+        "slug": "reverse-array-in-groups0255--110135",
+        "pname": "Reverse Array in Groups",
+        "lang": "java",
+        "user_subtime": "2025-11-25 12:11:04"
+      },
+      "710261": {
+        "slug": "minimize-connections",
+        "pname": "Minimum Operations to Connect Hospitals",
+        "lang": "java",
+        "user_subtime": "2025-11-22 02:05:22"
+      },
+      "874880": {
+        "slug": "set-matrix-zeroes",
+        "pname": "Set Matrix Zeros",
+        "lang": "java",
+        "user_subtime": "2025-11-13 10:08:53"
+      },
+      "701264": {
+        "slug": "spirally-traversing-a-matrix-1587115621",
+        "pname": "Spirally traversing a matrix",
+        "lang": "java",
+        "user_subtime": "2025-11-21 01:38:06"
+      },
+      "916179": {
+        "slug": "make-strings-equal--150209",
+        "pname": "Make Strings Equal",
+        "lang": "java",
+        "user_subtime": "2025-11-20 23:13:32"
+      },
+      "916162": {
+        "slug": "finding-the-numbers0215--112052",
+        "pname": "Unique Number II",
+        "lang": "java",
+        "user_subtime": "2025-11-20 12:10:53"
+      },
+      "711597": {
+        "slug": "path-with-minimum-effort",
+        "pname": "Path With Minimum Effort",
+        "lang": "java",
+        "user_subtime": "2025-11-19 21:21:58"
+      },
+      "711400": {
+        "slug": "number-of-ways-to-arrive-at-destination",
+        "pname": "Number of Ways to Arrive at Destination",
+        "lang": "java",
+        "user_subtime": "2025-11-18 15:55:16"
+      },
+      "704037": {
+        "slug": "maximum-sum-increasing-subsequence4749",
+        "pname": "Max Sum Increasing Subsequence",
+        "lang": "java",
+        "user_subtime": "2025-11-17 23:23:08"
+      },
+      "703368": {
+        "slug": "longest-common-increasing-subsequence1437",
+        "pname": "Longest Common Increasing Subsequence",
+        "lang": "java",
+        "user_subtime": "2025-11-16 23:14:31"
+      },
+      "700353": {
+        "slug": "interleaved-strings",
+        "pname": "Interleaved Strings",
+        "lang": "java",
+        "user_subtime": "2025-11-13 23:28:32"
+      },
+      "701342": {
+        "slug": "stock-span-problem-1587115621",
+        "pname": "Stock span problem",
+        "lang": "java",
+        "user_subtime": "2025-11-13 12:11:19"
+      },
+      "700287": {
+        "slug": "wildcard-pattern-matching",
+        "pname": "Wildcard Pattern Matching",
+        "lang": "java",
+        "user_subtime": "2025-11-12 23:46:29"
+      },
+      "915506": {
+        "slug": "find-sum-of-different-corresponding-bits-for-all-pairs4652--184926",
+        "pname": "Sum of Pairwise Bit Differences",
+        "lang": "java",
+        "user_subtime": "2025-11-12 19:14:22"
+      },
+      "915504": {
+        "slug": "minimize-the-array--184926",
+        "pname": "Minimize the Array",
+        "lang": "java",
+        "user_subtime": "2025-11-12 18:54:20"
+      },
+      "915505": {
+        "slug": "palindrom-with-minimum-sum--184926",
+        "pname": "Palindrome with minimum sum",
+        "lang": "java",
+        "user_subtime": "2025-11-12 18:49:47"
+      },
+      "701343": {
+        "slug": "next-larger-element-1587115620",
+        "pname": "Next Greater Element",
+        "lang": "java",
+        "user_subtime": "2025-11-12 14:37:13"
+      },
+      "712198": {
+        "slug": "buy-stock-with-cooldown",
+        "pname": "Stock Buy and Sell with Cooldown",
+        "lang": "java",
+        "user_subtime": "2025-11-10 21:58:09"
+      },
+      "704863": {
+        "slug": "number-of-paths-in-a-matrix-with-k-coins2728",
+        "pname": "Number of paths in a matrix with k coins",
+        "lang": "java",
+        "user_subtime": "2025-11-08 22:31:28"
+      },
+      "914235": {
+        "slug": "weighted-job-scheduling",
+        "pname": "Weighted Job Scheduling",
+        "lang": "java",
+        "user_subtime": "2025-11-07 22:24:39"
+      },
+      "704153": {
+        "slug": "ways-to-tile-a-floor5836",
+        "pname": "Ways To Tile A Floor",
+        "lang": "java",
+        "user_subtime": "2025-11-06 18:45:47"
+      },
+      "704603": {
+        "slug": "get-minimum-squares0538",
+        "pname": "Get Minimum Squares",
+        "lang": "java",
+        "user_subtime": "2025-11-05 21:05:10"
+      },
+      "913654": {
+        "slug": "max-dag-edges",
+        "pname": "Max DAG Edges",
+        "lang": "java",
+        "user_subtime": "2025-11-02 23:37:22"
+      },
+      "913862": {
+        "slug": "diameter-of-a-graph",
+        "pname": "Graph Diameter",
+        "lang": "java",
+        "user_subtime": "2025-10-29 18:42:15"
+      },
+      "701275": {
+        "slug": "distance-of-nearest-cell-having-1-1587115620",
+        "pname": "Distance of nearest cell having 1",
+        "lang": "java",
+        "user_subtime": "2025-10-28 21:37:58"
+      },
+      "910147": {
+        "slug": "minimum-steps-to-halve-sum",
+        "pname": "Minimum Steps to Halve Sum",
+        "lang": "java",
+        "user_subtime": "2025-10-25 23:24:29"
+      },
+      "913474": {
+        "slug": "split-array-subsequences",
+        "pname": "Split Array Subsequences",
+        "lang": "java",
+        "user_subtime": "2025-10-24 21:37:05"
+      },
+      "912973": {
+        "slug": "construct-tree-from-preorder-postorder",
+        "pname": "Construct Tree from Preorder & Postorder",
+        "lang": "java",
+        "user_subtime": "2025-10-08 23:47:02"
+      },
+      "701267": {
+        "slug": "rotate-by-90-degree-1587115621",
+        "pname": "Rotate by 90 degree",
+        "lang": "java",
+        "user_subtime": "2025-10-07 12:09:28"
+      },
+      "701266": {
+        "slug": "search-in-a-matrix-1587115621",
+        "pname": "Search in a sorted Matrix",
+        "lang": "java",
+        "user_subtime": "2025-10-07 11:30:24"
+      },
+      "912951": {
+        "slug": "max-sum-in-the-configuration--105232",
+        "pname": "Max sum in the configuration",
+        "lang": "java",
+        "user_subtime": "2025-10-05 23:13:44"
+      },
+      "912450": {
+        "slug": "combination-sum-iii--111703",
+        "pname": "Unique K-Number Sum",
+        "lang": "java",
+        "user_subtime": "2025-10-02 22:03:41"
+      },
+      "707348": {
+        "slug": "all-unique-permutations-of-an-array",
+        "pname": "All Unique Permutations of an array",
+        "lang": "java",
+        "user_subtime": "2025-10-01 18:38:08"
+      },
+      "712266": {
+        "slug": "generate-all-binary-strings",
+        "pname": "Generate all binary strings",
+        "lang": "java",
+        "user_subtime": "2025-09-30 12:41:36"
+      },
+      "888910": {
+        "slug": "longest-bounded-difference-subarray",
+        "pname": "Longest Bounded-Difference Subarray",
+        "lang": "java",
+        "user_subtime": "2025-09-28 22:17:24"
+      },
+      "701191": {
+        "slug": "reverse-array-in-groups0255",
+        "pname": "Reverse Array in Groups",
+        "lang": "java",
+        "user_subtime": "2025-09-26 20:00:28"
+      },
+      "701213": {
+        "slug": "rotate-array-by-n-elements-1587115621",
+        "pname": "Rotate Array",
+        "lang": "java",
+        "user_subtime": "2025-09-12 21:49:19"
+      },
+      "912110": {
+        "slug": "design-minmax-queue",
+        "pname": "Design MinMax Queue",
+        "lang": "java",
+        "user_subtime": "2025-09-24 23:41:43"
+      },
+      "911998": {
+        "slug": "longest-subarray-length--202010",
+        "pname": "Longest Subarray Length",
+        "lang": "java",
+        "user_subtime": "2025-09-20 22:44:32"
+      },
+      "911198": {
+        "slug": "min-add-to-make-parentheses-valid",
+        "pname": "Min Add to Make Parentheses Valid",
+        "lang": "java",
+        "user_subtime": "2025-09-19 19:34:13"
+      },
+      "713148": {
+        "slug": "next-greater-element",
+        "pname": "Next Greater Element in Circular Array",
+        "lang": "java",
+        "user_subtime": "2025-09-18 19:41:27"
+      },
+      "705287": {
+        "slug": "decode-the-string2444",
+        "pname": "Decode the string",
+        "lang": "java",
+        "user_subtime": "2025-09-17 20:02:33"
+      },
+      "705146": {
+        "slug": "next-permutation5226",
+        "pname": "Next Permutation",
+        "lang": "java",
+        "user_subtime": "2025-09-16 18:51:58"
+      },
+      "701339": {
+        "slug": "evaluation-of-postfix-expression1735",
+        "pname": "Postfix Evaluation",
+        "lang": "java",
+        "user_subtime": "2025-09-16 18:21:12"
+      },
+      "911734": {
+        "slug": "string-stack--165812",
+        "pname": "String stack",
+        "lang": "java",
+        "user_subtime": "2025-09-15 23:58:59"
+      },
+      "700285": {
+        "slug": "circular-tour-1587115620",
+        "pname": "Gas Station",
+        "lang": "java",
+        "user_subtime": "2025-09-14 23:55:22"
+      },
+      "710038": {
+        "slug": "minimum-cost-to-cut-a-board-into-squares",
+        "pname": "Minimum Cost to cut a board into squares",
+        "lang": "java",
+        "user_subtime": "2025-09-13 23:57:26"
+      }
+    },
+    "Easy": {
+      "703123": {
+        "slug": "find-equal-point-in-string-of-brackets2542",
+        "pname": "Equal Point in Brackets",
+        "lang": "java",
+        "user_subtime": "2026-06-11 23:48:40"
+      },
+      "714259": {
+        "slug": "seating-arrangement--170647",
+        "pname": "Seating Arrangement",
+        "lang": "java",
+        "user_subtime": "2026-06-09 19:02:46"
+      },
+      "700101": {
+        "slug": "delete-nodes-having-greater-value-on-right",
+        "pname": "Delete Nodes with Greater on Right",
+        "lang": "java",
+        "user_subtime": "2026-06-08 23:48:13"
+      },
+      "701889": {
+        "slug": "missing-number-in-array1416",
+        "pname": "Missing in Array",
+        "lang": "java",
+        "user_subtime": "2025-09-27 10:23:31"
+      },
+      "701210": {
+        "slug": "leaders-in-an-array-1587115620",
+        "pname": "Array Leaders",
+        "lang": "java",
+        "user_subtime": "2026-06-07 19:59:36"
+      },
+      "702754": {
+        "slug": "pairs-with-specific-difference1533",
+        "pname": "Max Sum Pairing with Diff Less than K",
+        "lang": "java",
+        "user_subtime": "2026-06-02 23:09:00"
+      },
+      "714215": {
+        "slug": "wifi-range--170647",
+        "pname": "Wifi Range",
+        "lang": "java",
+        "user_subtime": "2026-05-27 23:17:45"
+      },
+      "702020": {
+        "slug": "product-array-puzzle4525",
+        "pname": "Product array puzzle",
+        "lang": "java",
+        "user_subtime": "2026-05-14 12:17:21"
+      },
+      "703442": {
+        "slug": "missing-ranges-of-numbers1019",
+        "pname": "Missing Intervals in an Array",
+        "lang": "java",
+        "user_subtime": "2026-05-14 11:50:11"
+      },
+      "703314": {
+        "slug": "three-great-candidates0515",
+        "pname": "Three Great Candidates",
+        "lang": "java",
+        "user_subtime": "2025-09-30 12:28:28"
+      },
+      "712176": {
+        "slug": "find-xor-of-numbers-from-l-to-r",
+        "pname": "XOR of a Number Range",
+        "lang": "java",
+        "user_subtime": "2026-05-11 15:17:15"
+      },
+      "702915": {
+        "slug": "single-number1014",
+        "pname": "Single Number",
+        "lang": "java",
+        "user_subtime": "2026-05-11 09:38:39"
+      },
+      "703762": {
+        "slug": "set-bits0143",
+        "pname": "Count Set Bits",
+        "lang": "java",
+        "user_subtime": "2026-05-09 14:35:06"
+      },
+      "701170": {
+        "slug": "power-of-2-1587115620",
+        "pname": "Power of 2",
+        "lang": "java",
+        "user_subtime": "2026-05-09 14:20:03"
+      },
+      "712531": {
+        "slug": "bit-manipulation-1666686020",
+        "pname": "Bit Manipulation",
+        "lang": "java",
+        "user_subtime": "2026-05-09 10:35:01"
+      },
+      "701154": {
+        "slug": "check-whether-k-th-bit-is-set-or-not-1587115620",
+        "pname": "Check K-th Bit",
+        "lang": "java",
+        "user_subtime": "2026-05-09 09:58:04"
+      },
+      "704515": {
+        "slug": "palindrome-numbers0942",
+        "pname": "Palindrome Binary",
+        "lang": "java",
+        "user_subtime": "2026-05-04 22:21:10"
+      },
+      "702718": {
+        "slug": "sort-by-set-bit-count1153",
+        "pname": "Sort by Set Bit Count",
+        "lang": "java",
+        "user_subtime": "2026-05-03 23:05:21"
+      },
+      "703173": {
+        "slug": "does-array-represent-heap4345",
+        "pname": "Check if an Array is Max Heap",
+        "lang": "java",
+        "user_subtime": "2026-04-30 23:48:55"
+      },
+      "709986": {
+        "slug": "smallest-window-containing-0-1-and-2--170637",
+        "pname": "Smallest window containing 0, 1 and 2",
+        "lang": "java",
+        "user_subtime": "2026-04-27 22:46:40"
+      },
+      "702768": {
+        "slug": "common-elements1132",
+        "pname": "Common in 3 Sorted Arrays",
+        "lang": "java",
+        "user_subtime": "2026-04-26 23:03:27"
+      },
+      "702686": {
+        "slug": "buildings-receiving-sunlight3032",
+        "pname": "Buildings with Sunlight",
+        "lang": "java",
+        "user_subtime": "2026-04-24 21:35:45"
+      },
+      "702663": {
+        "slug": "mean-of-range-in-array2123",
+        "pname": "Mean of range in array",
+        "lang": "java",
+        "user_subtime": "2026-04-22 13:20:53"
+      },
+      "712390": {
+        "slug": "bus-ticket-change",
+        "pname": "Bus Ticket Change",
+        "lang": "java",
+        "user_subtime": "2026-04-11 10:05:42"
+      },
+      "712384": {
+        "slug": "assign-cookies",
+        "pname": "Assign Cookies",
+        "lang": "java",
+        "user_subtime": "2026-04-11 09:48:25"
+      },
+      "704410": {
+        "slug": "consecutive-numbers-for-sum3132",
+        "pname": "Express as Consecutive Number Sum",
+        "lang": "java",
+        "user_subtime": "2026-04-07 21:59:10"
+      },
+      "703439": {
+        "slug": "palindrome-string0817",
+        "pname": "Palindrome String",
+        "lang": "java",
+        "user_subtime": "2026-03-23 22:12:06"
+      },
+      "924213": {
+        "slug": "reorganize-the-array4810--145711",
+        "pname": "Rearrange to Make arr[i] = i",
+        "lang": "java",
+        "user_subtime": "2026-03-23 16:30:15"
+      },
+      "704983": {
+        "slug": "reverse-coding2452",
+        "pname": "Sum of Natural Numbers",
+        "lang": "java",
+        "user_subtime": "2026-03-23 11:53:34"
+      },
+      "924117": {
+        "slug": "isomorphic-strings-1587115620--115856",
+        "pname": "Isomorphic Strings",
+        "lang": "java",
+        "user_subtime": "2026-03-20 16:38:53"
+      },
+      "703836": {
+        "slug": "max-sum-subarray-of-size-k5313",
+        "pname": "Max Sum Subarray of size K",
+        "lang": "java",
+        "user_subtime": "2026-03-19 19:45:51"
+      },
+      "923808": {
+        "slug": "maximum-score--211457",
+        "pname": "Maximum Score",
+        "lang": "java",
+        "user_subtime": "2026-03-19 12:31:01"
+      },
+      "923715": {
+        "slug": "max-sum-subarray-of-size-k5313--113402",
+        "pname": "Max Sum Subarray of size K",
+        "lang": "java",
+        "user_subtime": "2026-03-18 16:00:00"
+      },
+      "923635": {
+        "slug": "set-bits0143--124145",
+        "pname": "Count Set Bits",
+        "lang": "java",
+        "user_subtime": "2026-03-17 15:51:15"
+      },
+      "700207": {
+        "slug": "implement-stack-using-linked-list",
+        "pname": "Stack using Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-16 21:46:09"
+      },
+      "704041": {
+        "slug": "shortest-path-from-1-to-n0156",
+        "pname": "Shortest path from 1 to n",
+        "lang": "java",
+        "user_subtime": "2026-03-16 16:15:50"
+      },
+      "923599": {
+        "slug": "shortest-path-from-1-to-n0156--111018",
+        "pname": "Shortest path from 1 to n",
+        "lang": "java",
+        "user_subtime": "2026-03-16 16:12:13"
+      },
+      "710059": {
+        "slug": "find-pairs-with-given-sum-in-doubly-linked-list",
+        "pname": "Pair Sum in Doubly Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-14 21:04:58"
+      },
+      "700196": {
+        "slug": "remove-duplicate-element-from-sorted-linked-list",
+        "pname": "Remove Duplicates from a Sorted Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-14 20:05:55"
+      },
+      "700175": {
+        "slug": "delete-middle-of-linked-list",
+        "pname": "Delete Middle of Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-14 18:55:04"
+      },
+      "700171": {
+        "slug": "finding-middle-element-in-a-linked-list",
+        "pname": "Middle of a Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-14 16:27:42"
+      },
+      "923488": {
+        "slug": "reverse-first-k-elements-of-queue--110911",
+        "pname": "Reverse first K of a Queue",
+        "lang": "java",
+        "user_subtime": "2026-03-14 15:40:07"
+      },
+      "700297": {
+        "slug": "remove-every-kth-node",
+        "pname": "Remove Every k'th in Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-14 14:44:43"
+      },
+      "700426": {
+        "slug": "delete-a-node-in-single-linked-list",
+        "pname": "Delete in a Singly Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-14 14:28:12"
+      },
+      "700170": {
+        "slug": "nth-node-from-end-of-linked-list",
+        "pname": "Kth from End of Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-14 14:23:44"
+      },
+      "700246": {
+        "slug": "remove-duplicate-elements-from-sorted-array",
+        "pname": "Remove Duplicates Sorted Array",
+        "lang": "java",
+        "user_subtime": "2026-03-13 22:12:19"
+      },
+      "923421": {
+        "slug": "divisor-game-1664432414--105146",
+        "pname": "Divisor Game",
+        "lang": "java",
+        "user_subtime": "2026-03-13 16:12:56"
+      },
+      "700232": {
+        "slug": "insert-a-node-in-doubly-linked-list",
+        "pname": "Insertion at doubly linked list",
+        "lang": "java",
+        "user_subtime": "2026-03-12 11:45:05"
+      },
+      "700005": {
+        "slug": "reverse-a-linked-list",
+        "pname": "Reverse a linked list",
+        "lang": "java",
+        "user_subtime": "2026-03-12 11:34:36"
+      },
+      "923376": {
+        "slug": "bfs-traversal-of-graph--125021",
+        "pname": "BFS of graph",
+        "lang": "java",
+        "user_subtime": "2026-03-12 15:57:16"
+      },
+      "700137": {
+        "slug": "reverse-a-doubly-linked-list",
+        "pname": "Reverse a Doubly Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-12 12:46:08"
+      },
+      "702124": {
+        "slug": "delete-head-of-doubly-linked-list",
+        "pname": "Delete Head of Doubly Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-12 11:48:24"
+      },
+      "703223": {
+        "slug": "find-first-repeated-character4108",
+        "pname": "First Repeated Character",
+        "lang": "java",
+        "user_subtime": "2026-03-11 23:03:13"
+      },
+      "923231": {
+        "slug": "missing-number-in-array1416--131907",
+        "pname": "Missing in Array",
+        "lang": "java",
+        "user_subtime": "2026-03-11 15:47:52"
+      },
+      "700217": {
+        "slug": "bfs-traversal-of-graph",
+        "pname": "BFS of graph",
+        "lang": "java",
+        "user_subtime": "2026-03-01 15:56:10"
+      },
+      "700203": {
+        "slug": "depth-first-traversal-for-a-graph",
+        "pname": "DFS of Graph",
+        "lang": "java",
+        "user_subtime": "2026-03-01 15:36:38"
+      },
+      "910057": {
+        "slug": "create-a-doubly-linked-list-from-a-given-array",
+        "pname": "Doubly Linked List from an Array",
+        "lang": "java",
+        "user_subtime": "2026-03-10 18:17:49"
+      },
+      "909654": {
+        "slug": "deletion-at-the-end-of-a-linked-list",
+        "pname": "Deletion at the end of a Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-10 18:10:29"
+      },
+      "702080": {
+        "slug": "delete-head-of-linked-list",
+        "pname": "Delete Head of Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-10 18:08:33"
+      },
+      "869719": {
+        "slug": "linked-list-insertion-at-beginning",
+        "pname": "Linked List Insertion At Beginning",
+        "lang": "java",
+        "user_subtime": "2026-03-10 18:05:58"
+      },
+      "923207": {
+        "slug": "reverse-words-in-a-given-string5459--125921",
+        "pname": "Reverse Words",
+        "lang": "java",
+        "user_subtime": "2026-03-10 16:00:42"
+      },
+      "712251": {
+        "slug": "search-in-linked-list-1664434326",
+        "pname": "Search in Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-10 13:57:16"
+      },
+      "923181": {
+        "slug": "deletion-at-the-end-of-a-linked-list--144617",
+        "pname": "Deletion at the end of a Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-09 15:52:33"
+      },
+      "700135": {
+        "slug": "inorder-traversal",
+        "pname": "Inorder Traversal",
+        "lang": "java",
+        "user_subtime": "2026-02-19 14:27:26"
+      },
+      "700155": {
+        "slug": "mirror-tree",
+        "pname": "Mirror Tree",
+        "lang": "java",
+        "user_subtime": "2026-02-22 00:41:52"
+      },
+      "700164": {
+        "slug": "height-of-binary-tree",
+        "pname": "Height of Binary Tree",
+        "lang": "java",
+        "user_subtime": "2026-02-20 14:14:39"
+      },
+      "703601": {
+        "slug": "largest-number-in-one-swap1520",
+        "pname": "Largest Number with One Swap",
+        "lang": "java",
+        "user_subtime": "2025-09-10 22:25:14"
+      },
+      "922520": {
+        "slug": "row-sum-in-a-matrix--141544",
+        "pname": "Row Sum in a Matrix",
+        "lang": "java",
+        "user_subtime": "2026-03-02 16:07:37"
+      },
+      "702806": {
+        "slug": "move-all-zeroes-to-end-of-array0751",
+        "pname": "Move All Zeroes to End",
+        "lang": "java",
+        "user_subtime": "2025-09-10 22:59:28"
+      },
+      "913879": {
+        "slug": "convert-adjacency-list-to-adjacency-matrix",
+        "pname": "Convert Adjacency List to Adjacency Matrix",
+        "lang": "java",
+        "user_subtime": "2026-02-28 15:10:13"
+      },
+      "914136": {
+        "slug": "convert-adjacency-matrix-to-adjacency-list",
+        "pname": "Convert Adjacency matrix to Adjacency list",
+        "lang": "java",
+        "user_subtime": "2026-02-28 14:55:28"
+      },
+      "703331": {
+        "slug": "find-the-closest-pair-from-two-arrays4215",
+        "pname": "Find the closest pair from two arrays",
+        "lang": "java",
+        "user_subtime": "2026-02-28 11:43:15"
+      },
+      "922388": {
+        "slug": "perfect-binary-tree--123329",
+        "pname": "Perfect Binary Tree",
+        "lang": "java",
+        "user_subtime": "2026-02-27 16:22:08"
+      },
+      "700427": {
+        "slug": "kth-largest-element-in-bst",
+        "pname": "Kth Largest in BST",
+        "lang": "java",
+        "user_subtime": "2026-02-27 14:19:04"
+      },
+      "700698": {
+        "slug": "delete-middle-element-of-a-stack",
+        "pname": "Delete Mid of a Stack",
+        "lang": "java",
+        "user_subtime": "2026-02-27 00:29:08"
+      },
+      "701298": {
+        "slug": "isomorphic-strings-1587115620",
+        "pname": "Isomorphic Strings",
+        "lang": "java",
+        "user_subtime": "2026-02-26 23:44:54"
+      },
+      "922316": {
+        "slug": "delete-middle-element-of-a-stack--124536",
+        "pname": "Delete Mid of a Stack",
+        "lang": "java",
+        "user_subtime": "2026-02-26 16:17:51"
+      },
+      "700225": {
+        "slug": "root-to-leaf-path-sum",
+        "pname": "Root to leaf path sum",
+        "lang": "java",
+        "user_subtime": "2026-02-26 15:06:46"
+      },
+      "700349": {
+        "slug": "search-a-node-in-bst",
+        "pname": "Search a node in BST",
+        "lang": "java",
+        "user_subtime": "2026-02-25 14:32:42"
+      },
+      "922266": {
+        "slug": "print-all-nodes-that-dont-have-sibling--125312",
+        "pname": "Nodes without a Sibling",
+        "lang": "java",
+        "user_subtime": "2026-02-25 16:12:44"
+      },
+      "700545": {
+        "slug": "minimum-element-in-bst",
+        "pname": "Minimum in BST",
+        "lang": "java",
+        "user_subtime": "2026-02-25 14:40:15"
+      },
+      "700216": {
+        "slug": "insert-a-node-in-a-bst",
+        "pname": "BST Insert",
+        "lang": "java",
+        "user_subtime": "2026-02-25 14:25:27"
+      },
+      "922241": {
+        "slug": "first-repeating-element4018--143925",
+        "pname": "First Repeating Element",
+        "lang": "java",
+        "user_subtime": "2026-02-24 15:42:49"
+      },
+      "922131": {
+        "slug": "unique-rows-in-boolean-matrix--150306",
+        "pname": "Unique rows in boolean matrix",
+        "lang": "java",
+        "user_subtime": "2026-02-23 15:40:34"
+      },
+      "700222": {
+        "slug": "determine-if-two-trees-are-identical",
+        "pname": "Identical Trees",
+        "lang": "java",
+        "user_subtime": "2026-02-23 15:28:54"
+      },
+      "700174": {
+        "slug": "left-view-of-binary-tree",
+        "pname": "Left View of Binary Tree",
+        "lang": "java",
+        "user_subtime": "2026-02-23 14:52:24"
+      },
+      "700153": {
+        "slug": "right-view-of-binary-tree",
+        "pname": "Right View of Binary Tree",
+        "lang": "java",
+        "user_subtime": "2026-02-23 14:58:39"
+      },
+      "700257": {
+        "slug": "minimum-depth-of-a-binary-tree",
+        "pname": "Minimum Depth of a Binary Tree",
+        "lang": "java",
+        "user_subtime": "2026-02-23 14:32:10"
+      },
+      "701730": {
+        "slug": "union-of-two-arrays3538",
+        "pname": "Union of Arrays with Duplicates",
+        "lang": "java",
+        "user_subtime": "2025-11-07 23:09:38"
+      },
+      "876745": {
+        "slug": "union-of-two-sorted-arrays-with-distinct-elements",
+        "pname": "Union of Two Sorted Arrays with Distinct Elements",
+        "lang": "java",
+        "user_subtime": "2026-02-20 23:31:05"
+      },
+      "921942": {
+        "slug": "union-of-two-arrays-with-distinct-elements--141935",
+        "pname": "Union of Two Arrays with Distinct Elements",
+        "lang": "java",
+        "user_subtime": "2026-02-20 15:35:44"
+      },
+      "700166": {
+        "slug": "check-for-balanced-tree",
+        "pname": "Balanced Tree Check",
+        "lang": "java",
+        "user_subtime": "2026-02-20 14:48:07"
+      },
+      "712233": {
+        "slug": "maximum-depth-of-binary-tree",
+        "pname": "Maximum Depth Of Binary Tree",
+        "lang": "java",
+        "user_subtime": "2026-02-20 14:08:39"
+      },
+      "700202": {
+        "slug": "reverse-level-order-traversal",
+        "pname": "Reverse Level Order Traversal",
+        "lang": "java",
+        "user_subtime": "2026-02-20 12:33:48"
+      },
+      "921800": {
+        "slug": "key-pair5616--154038",
+        "pname": "Two Sum - Pair with Given Sum",
+        "lang": "java",
+        "user_subtime": "2026-02-19 16:21:27"
+      },
+      "700199": {
+        "slug": "postorder-traversal",
+        "pname": "Postorder Traversal",
+        "lang": "java",
+        "user_subtime": "2025-10-09 22:49:23"
+      },
+      "921730": {
+        "slug": "product-array-puzzle4525--144929",
+        "pname": "Product array puzzle",
+        "lang": "java",
+        "user_subtime": "2026-02-18 16:37:59"
+      },
+      "700148": {
+        "slug": "insertion-sort",
+        "pname": "Insertion Sort",
+        "lang": "java",
+        "user_subtime": "2026-02-17 14:18:07"
+      },
+      "702788": {
+        "slug": "minimum-element-in-a-sorted-and-rotated-array3611",
+        "pname": "Sorted and Rotated Minimum",
+        "lang": "java",
+        "user_subtime": "2026-02-15 02:20:49"
+      },
+      "703129": {
+        "slug": "number-of-occurrence2259",
+        "pname": "Number of occurrence",
+        "lang": "java",
+        "user_subtime": "2026-02-10 10:33:48"
+      },
+      "706300": {
+        "slug": "minimum-difference-in-an-array",
+        "pname": "Minimum Difference in an Array",
+        "lang": "java",
+        "user_subtime": "2026-02-15 01:20:52"
+      },
+      "921620": {
+        "slug": "bubble-sort--143301",
+        "pname": "Bubble Sort",
+        "lang": "java",
+        "user_subtime": "2026-02-14 15:31:07"
+      },
+      "921619": {
+        "slug": "selection-sort--143236",
+        "pname": "Selection Sort",
+        "lang": "java",
+        "user_subtime": "2026-02-14 15:29:12"
+      },
+      "700147": {
+        "slug": "selection-sort",
+        "pname": "Selection Sort",
+        "lang": "java",
+        "user_subtime": "2026-02-14 15:03:16"
+      },
+      "700143": {
+        "slug": "bubble-sort",
+        "pname": "Bubble Sort",
+        "lang": "java",
+        "user_subtime": "2026-02-14 14:22:14"
+      },
+      "878537": {
+        "slug": "implement-lower-bound",
+        "pname": "Implement Lower Bound",
+        "lang": "java",
+        "user_subtime": "2026-02-12 14:58:00"
+      },
+      "701219": {
+        "slug": "count-1s-in-binary-array-1587115620",
+        "pname": "Count 1's in binary array",
+        "lang": "java",
+        "user_subtime": "2026-02-12 14:22:38"
+      },
+      "878949": {
+        "slug": "implement-upper-bound",
+        "pname": "Implement Upper Bound",
+        "lang": "java",
+        "user_subtime": "2026-02-12 15:04:12"
+      },
+      "700238": {
+        "slug": "binary-search-1587115620",
+        "pname": "First Occurrence in Sorted",
+        "lang": "java",
+        "user_subtime": "2026-02-12 14:41:42"
+      },
+      "921497": {
+        "slug": "nth-fibonacci-number1335--151123",
+        "pname": "Nth Fibonacci Number",
+        "lang": "java",
+        "user_subtime": "2026-02-11 16:39:39"
+      },
+      "700361": {
+        "slug": "josephus-problem",
+        "pname": "Josephus problem",
+        "lang": "java",
+        "user_subtime": "2026-02-10 01:21:49"
+      },
+      "701388": {
+        "slug": "sum-of-digits-of-a-number",
+        "pname": "Sum Of Digits",
+        "lang": "java",
+        "user_subtime": "2026-02-10 01:03:25"
+      },
+      "703190": {
+        "slug": "check-if-an-array-is-sorted0701",
+        "pname": "Check if array is sorted",
+        "lang": "java",
+        "user_subtime": "2026-02-10 00:40:14"
+      },
+      "703915": {
+        "slug": "palindrome0746",
+        "pname": "Palindrome Number",
+        "lang": "java",
+        "user_subtime": "2026-02-09 23:43:46"
+      },
+      "703905": {
+        "slug": "sum-of-digits1742",
+        "pname": "Sum Of Digits",
+        "lang": "java",
+        "user_subtime": "2026-02-09 23:29:59"
+      },
+      "701389": {
+        "slug": "count-total-digits-in-a-number",
+        "pname": "Count Digits in a Number",
+        "lang": "java",
+        "user_subtime": "2026-02-09 23:21:31"
+      },
+      "705530": {
+        "slug": "count-digits-1606889545",
+        "pname": "Count Digits in a Number",
+        "lang": "java",
+        "user_subtime": "2026-02-09 23:12:40"
+      },
+      "712197": {
+        "slug": "buy-stock-2",
+        "pname": "Stock Buy and Sell \u2013 Max one Transaction Allowed",
+        "lang": "java",
+        "user_subtime": "2025-11-28 18:30:44"
+      },
+      "916561": {
+        "slug": "union-of-two-arrays3538--104332",
+        "pname": "Union of Arrays with Duplicates",
+        "lang": "java",
+        "user_subtime": "2025-11-27 12:37:52"
+      },
+      "703092": {
+        "slug": "key-pair5616",
+        "pname": "Two Sum - Pair with Given Sum",
+        "lang": "java",
+        "user_subtime": "2025-11-27 12:02:56"
+      },
+      "701261": {
+        "slug": "sum-of-upper-and-lower-triangles-1587115621",
+        "pname": "Sum of upper and lower triangles",
+        "lang": "java",
+        "user_subtime": "2025-11-21 02:19:22"
+      },
+      "701270": {
+        "slug": "reversing-the-columns-of-a-matrix-1587115621",
+        "pname": "Reversing the columns of a Matrix",
+        "lang": "java",
+        "user_subtime": "2025-11-21 01:58:41"
+      },
+      "915503": {
+        "slug": "beautiful-matrix-i--184926",
+        "pname": "Beautiful Matrix I",
+        "lang": "java",
+        "user_subtime": "2025-11-12 18:30:30"
+      },
+      "701331": {
+        "slug": "parenthesis-checker2744",
+        "pname": "Parenthesis Checker",
+        "lang": "java",
+        "user_subtime": "2025-11-11 12:30:55"
+      },
+      "893307": {
+        "slug": "find-unique-number",
+        "pname": "Unique Number I",
+        "lang": "java",
+        "user_subtime": "2025-11-08 12:14:16"
+      },
+      "878900": {
+        "slug": "find-repetitive-element-from-1-to-n-1",
+        "pname": "Find Only Repetitive Element from 1 to n-1",
+        "lang": "java",
+        "user_subtime": "2025-11-08 11:52:15"
+      },
+      "703284": {
+        "slug": "count-pairs-with-given-sum5022",
+        "pname": "Two sum -Pairs with 0 Sum",
+        "lang": "java",
+        "user_subtime": "2025-11-07 23:41:47"
+      },
+      "702922": {
+        "slug": "array-of-alternate-ve-and-ve-nos1401",
+        "pname": "Alternate Positive Negative",
+        "lang": "java",
+        "user_subtime": "2025-11-06 23:56:56"
+      },
+      "702817": {
+        "slug": "move-all-negative-elements-to-end1813",
+        "pname": "Move all negative elements to end",
+        "lang": "java",
+        "user_subtime": "2025-11-06 23:32:50"
+      },
+      "701312": {
+        "slug": "sum-of-numbers-in-string-1587115621",
+        "pname": "Sum Numbers in a String",
+        "lang": "java",
+        "user_subtime": "2025-11-04 12:30:12"
+      },
+      "701288": {
+        "slug": "anagram-1587115620",
+        "pname": "Anagram",
+        "lang": "java",
+        "user_subtime": "2025-10-09 10:15:25"
+      },
+      "912948": {
+        "slug": "adding-ones3628--105232",
+        "pname": "Adding Ones",
+        "lang": "java",
+        "user_subtime": "2025-10-05 22:49:19"
+      },
+      "888216": {
+        "slug": "max-consecutive-one",
+        "pname": "Max Consecutive Bit",
+        "lang": "java",
+        "user_subtime": "2025-09-30 19:24:52"
+      },
+      "912619": {
+        "slug": "array-balancing-cost--190904",
+        "pname": "Array Balancing Cost",
+        "lang": "java",
+        "user_subtime": "2025-09-28 21:15:25"
+      },
+      "912618": {
+        "slug": "weak-subarrays--190904",
+        "pname": "Weak Subarrays",
+        "lang": "java",
+        "user_subtime": "2025-09-28 20:52:56"
+      },
+      "700889": {
+        "slug": "reverse-an-array",
+        "pname": "Reverse an Array",
+        "lang": "java",
+        "user_subtime": "2025-09-11 23:36:44"
+      },
+      "703089": {
+        "slug": "second-largest3735",
+        "pname": "Second Largest",
+        "lang": "java",
+        "user_subtime": "2025-09-09 22:45:02"
+      },
+      "701662": {
+        "slug": "rotate-deque-by-k",
+        "pname": "Rotate Deque By K",
+        "lang": "java",
+        "user_subtime": "2025-09-26 19:25:11"
+      },
+      "701347": {
+        "slug": "generate-binary-numbers-1587115620",
+        "pname": "Generate Binary Numbers",
+        "lang": "java",
+        "user_subtime": "2025-09-25 22:55:10"
+      },
+      "700646": {
+        "slug": "queue-reversal",
+        "pname": "Queue Reversal",
+        "lang": "java",
+        "user_subtime": "2025-09-23 22:04:08"
+      },
+      "703783": {
+        "slug": "armstrong-numbers2727",
+        "pname": "Armstrong Numbers",
+        "lang": "java",
+        "user_subtime": "2025-09-10 23:35:52"
+      },
+      "704205": {
+        "slug": "assign-mice-holes3053",
+        "pname": "Assign Mice Holes",
+        "lang": "java",
+        "user_subtime": "2025-09-09 14:20:48"
+      }
+    },
+    "Basic": {
+      "703365": {
+        "slug": "array-subset-of-another-array2317",
+        "pname": "Array Subset",
+        "lang": "java",
+        "user_subtime": "2026-05-15 09:51:10"
+      },
+      "701160": {
+        "slug": "bit-difference-1587115620",
+        "pname": "Bit Difference",
+        "lang": "java",
+        "user_subtime": "2026-05-11 09:33:35"
+      },
+      "703726": {
+        "slug": "check-set-bits5408",
+        "pname": "Check if All Bits Set",
+        "lang": "java",
+        "user_subtime": "2026-05-09 14:26:40"
+      },
+      "703766": {
+        "slug": "set-the-rightmost-unset-bit4436",
+        "pname": "Set the rightmost unset bit",
+        "lang": "java",
+        "user_subtime": "2026-05-09 14:11:31"
+      },
+      "703147": {
+        "slug": "replace-the-bit3212",
+        "pname": "Unset Kth Bit",
+        "lang": "java",
+        "user_subtime": "2026-05-09 10:20:42"
+      },
+      "703765": {
+        "slug": "set-kth-bit3724",
+        "pname": "Set kth bit",
+        "lang": "java",
+        "user_subtime": "2026-05-09 10:04:40"
+      },
+      "704102": {
+        "slug": "swap-the-numbers",
+        "pname": "Swap The Numbers",
+        "lang": "java",
+        "user_subtime": "2026-05-09 09:47:58"
+      },
+      "703764": {
+        "slug": "find-position-of-set-bit3706",
+        "pname": "Position of the Set Bit",
+        "lang": "java",
+        "user_subtime": "2026-05-02 23:13:51"
+      },
+      "703757": {
+        "slug": "check-if-a-number-is-power-of-another-number5442",
+        "pname": "Check for Power",
+        "lang": "java",
+        "user_subtime": "2026-04-19 15:35:04"
+      },
+      "703913": {
+        "slug": "factorial5739",
+        "pname": "Factorial",
+        "lang": "java",
+        "user_subtime": "2026-03-23 11:55:49"
+      },
+      "700211": {
+        "slug": "implement-queue-using-array",
+        "pname": "Queue Using Array",
+        "lang": "java",
+        "user_subtime": "2026-03-16 21:36:14"
+      },
+      "701400": {
+        "slug": "fibonacci-using-recursion",
+        "pname": "Nth Fibonacci Using Recursion",
+        "lang": "java",
+        "user_subtime": "2025-12-02 12:02:12"
+      },
+      "700585": {
+        "slug": "identical-linked-lists",
+        "pname": "Identical Linked Lists",
+        "lang": "java",
+        "user_subtime": "2026-03-13 11:24:13"
+      },
+      "700039": {
+        "slug": "count-nodes-of-linked-list",
+        "pname": "Length of Linked List",
+        "lang": "java",
+        "user_subtime": "2026-03-10 18:00:56"
+      },
+      "700525": {
+        "slug": "linked-list-insertion-1587115620",
+        "pname": "Linked List End Insertion",
+        "lang": "java",
+        "user_subtime": "2026-03-10 11:56:57"
+      },
+      "700319": {
+        "slug": "preorder-traversal",
+        "pname": "Preorder Traversal",
+        "lang": "java",
+        "user_subtime": "2026-02-19 14:16:04"
+      },
+      "701218": {
+        "slug": "who-will-win-1587115621",
+        "pname": "Binary Search",
+        "lang": "java",
+        "user_subtime": "2026-02-12 14:06:19"
+      },
+      "701217": {
+        "slug": "search-an-element-in-an-array-1587115621",
+        "pname": "Array Search",
+        "lang": "java",
+        "user_subtime": "2025-09-09 22:53:39"
+      },
+      "705382": {
+        "slug": "sum-all-array-elements",
+        "pname": "Sum of Array",
+        "lang": "java",
+        "user_subtime": "2025-09-25 12:22:19"
+      },
+      "703457": {
+        "slug": "find-minimum-and-maximum-element-in-an-array4428",
+        "pname": "Min and Max in Array",
+        "lang": "java",
+        "user_subtime": "2026-02-10 00:22:35"
+      },
+      "705378": {
+        "slug": "array-traversal",
+        "pname": "Array Traversal",
+        "lang": "java",
+        "user_subtime": "2026-02-09 23:53:52"
+      },
+      "703932": {
+        "slug": "reverse-digit0316",
+        "pname": "Reverse digits",
+        "lang": "java",
+        "user_subtime": "2026-02-09 23:39:25"
+      },
+      "701391": {
+        "slug": "power-using-recursion",
+        "pname": "Power Using Recursion",
+        "lang": "java",
+        "user_subtime": "2025-12-02 12:18:48"
+      },
+      "701189": {
+        "slug": "print-1-to-n-without-using-loops-1587115620",
+        "pname": "1 to n Without Loops",
+        "lang": "java",
+        "user_subtime": "2025-12-02 11:29:42"
+      },
+      "703724": {
+        "slug": "odd-or-even3618",
+        "pname": "Odd or Even",
+        "lang": "java",
+        "user_subtime": "2025-11-06 12:04:14"
+      },
+      "701011": {
+        "slug": "who-has-the-majority",
+        "pname": "Who has the majority?",
+        "lang": "java",
+        "user_subtime": "2025-09-26 20:13:02"
+      },
+      "703297": {
+        "slug": "largest-element-in-array4009",
+        "pname": "Largest in Array",
+        "lang": "java",
+        "user_subtime": "2025-09-25 12:53:14"
+      },
+      "703672": {
+        "slug": "gcd-of-two-numbers3459",
+        "pname": "GCD of two numbers",
+        "lang": "java",
+        "user_subtime": "2025-09-10 23:11:19"
+      }
+    },
+    "Hard": {
+      "701310": {
+        "slug": "smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621",
+        "pname": "Smallest Window with All",
+        "lang": "java",
+        "user_subtime": "2026-03-06 20:06:24"
+      },
+      "712427": {
+        "slug": "candy",
+        "pname": "Candy",
+        "lang": "java",
+        "user_subtime": "2026-05-06 18:59:32"
+      },
+      "703912": {
+        "slug": "edit-distance3702",
+        "pname": "Edit Distance",
+        "lang": "java",
+        "user_subtime": "2026-04-03 09:50:52"
+      },
+      "701375": {
+        "slug": "solve-the-sudoku-1587115621",
+        "pname": "Solve the Sudoku",
+        "lang": "java",
+        "user_subtime": "2026-03-24 20:27:33"
+      },
+      "705336": {
+        "slug": "n-queen-problem0315",
+        "pname": "N-Queen Problem",
+        "lang": "java",
+        "user_subtime": "2026-03-24 12:24:58"
+      },
+      "705175": {
+        "slug": "boolean-parenthesization5610",
+        "pname": "Boolean Parenthesization",
+        "lang": "java",
+        "user_subtime": "2026-04-08 18:57:29"
+      },
+      "712225": {
+        "slug": "max-skills",
+        "pname": "Max Skills",
+        "lang": "java",
+        "user_subtime": "2026-04-08 09:47:00"
+      },
+      "915513": {
+        "slug": "minimum-cost-to-cut-a-stick-of-length-n",
+        "pname": "Minimum Cost to Cut a Stick of length N",
+        "lang": "java",
+        "user_subtime": "2025-11-15 16:34:01"
+      },
+      "703406": {
+        "slug": "number-of-distinct-subsequences0909",
+        "pname": "Number of distinct subsequences",
+        "lang": "java",
+        "user_subtime": "2026-04-03 14:25:14"
+      },
+      "703615": {
+        "slug": "wildcard-string-matching1126",
+        "pname": "Wildcard string matching",
+        "lang": "java",
+        "user_subtime": "2026-04-03 12:32:02"
+      },
+      "700337": {
+        "slug": "distinct-occurrences",
+        "pname": "Distinct occurrences",
+        "lang": "java",
+        "user_subtime": "2026-04-02 14:59:04"
+      },
+      "712575": {
+        "slug": "chocolates-pickup",
+        "pname": "Chocolates Pickup",
+        "lang": "java",
+        "user_subtime": "2026-04-01 23:59:51"
+      },
+      "703749": {
+        "slug": "print-all-lcs-sequences3413",
+        "pname": "All Longest Common Subsequences",
+        "lang": "java",
+        "user_subtime": "2026-03-31 14:12:46"
+      },
+      "704187": {
+        "slug": "palindromic-patitioning4845",
+        "pname": "Palindromic Partitioning",
+        "lang": "java",
+        "user_subtime": "2026-03-30 16:47:47"
+      },
+      "924528": {
+        "slug": "longest-beautiful-substring--123323",
+        "pname": "Longest Beautiful Substring",
+        "lang": "java",
+        "user_subtime": "2026-03-30 16:08:01"
+      },
+      "704556": {
+        "slug": "matrix-chain-multiplication0303",
+        "pname": "Matrix Chain Multiplication",
+        "lang": "java",
+        "user_subtime": "2026-03-28 15:23:51"
+      },
+      "704140": {
+        "slug": "minimum-sum-partition3317",
+        "pname": "Partition Into 2 Subsets with Min Sum Diff",
+        "lang": "java",
+        "user_subtime": "2026-03-27 23:27:09"
+      },
+      "924467": {
+        "slug": "reverse-a-sublist-of-a-linked-list--140154",
+        "pname": "Reverse a sublist of a linked list",
+        "lang": "java",
+        "user_subtime": "2026-03-27 15:46:42"
+      },
+      "924439": {
+        "slug": "clone-a-linked-list-with-next-and-random-pointer--142915",
+        "pname": "Clone List with Next and Random",
+        "lang": "java",
+        "user_subtime": "2026-03-26 15:51:07"
+      },
+      "924270": {
+        "slug": "reverse-a-sublist-of-a-linked-list--114505",
+        "pname": "Reverse a sublist of a linked list",
+        "lang": "java",
+        "user_subtime": "2026-03-25 16:04:04"
+      },
+      "924241": {
+        "slug": "max-circular-subarray-sum-1587115620--121935",
+        "pname": "Max Circular Subarray Sum",
+        "lang": "java",
+        "user_subtime": "2026-03-24 16:45:18"
+      },
+      "706336": {
+        "slug": "sorted-list-to-bst",
+        "pname": "Sorted Linked List to BST",
+        "lang": "java",
+        "user_subtime": "2026-03-23 11:32:19"
+      },
+      "878634": {
+        "slug": "sum-of-max-of-subarrays",
+        "pname": "Sum of Max of Subarrays",
+        "lang": "java",
+        "user_subtime": "2026-03-23 09:57:27"
+      },
+      "712324": {
+        "slug": "lfu-cache-1665050355",
+        "pname": "LFU cache",
+        "lang": "java",
+        "user_subtime": "2026-03-21 16:06:08"
+      },
+      "700366": {
+        "slug": "lru-cache",
+        "pname": "LRU Cache",
+        "lang": "java",
+        "user_subtime": "2026-03-21 15:21:52"
+      },
+      "701340": {
+        "slug": "maximum-rectangular-area-in-a-histogram-1587115620",
+        "pname": "Histogram Max Rectangular Area",
+        "lang": "java",
+        "user_subtime": "2026-03-19 23:52:02"
+      },
+      "706417": {
+        "slug": "word-ladder-ii",
+        "pname": "Shortest Transformation Sequences in a Word List",
+        "lang": "java",
+        "user_subtime": "2026-03-19 09:17:45"
+      },
+      "701746": {
+        "slug": "minimum-cost-path3833",
+        "pname": "Minimum Cost Path",
+        "lang": "java",
+        "user_subtime": "2026-03-17 18:57:22"
+      },
+      "700186": {
+        "slug": "clone-a-linked-list-with-next-and-random-pointer",
+        "pname": "Clone List with Next and Random",
+        "lang": "java",
+        "user_subtime": "2026-03-15 17:26:22"
+      },
+      "700013": {
+        "slug": "reverse-a-linked-list-in-groups-of-given-size",
+        "pname": "Linked List Group Reverse",
+        "lang": "java",
+        "user_subtime": "2026-03-14 22:26:03"
+      },
+      "701841": {
+        "slug": "word-ladder",
+        "pname": "Shortest Transformation Length in a Word List",
+        "lang": "java",
+        "user_subtime": "2026-03-13 18:48:13"
+      },
+      "700494": {
+        "slug": "alien-dictionary",
+        "pname": "Alien Dictionary",
+        "lang": "java",
+        "user_subtime": "2026-03-12 10:40:24"
+      },
+      "889108": {
+        "slug": "minimum-number-of-k-consecutive-bit-flips--171650",
+        "pname": "Minimum K Consecutive Bit Flips",
+        "lang": "java",
+        "user_subtime": "2025-09-27 12:40:31"
+      },
+      "700552": {
+        "slug": "fixed-two-nodes-of-a-bst",
+        "pname": "Fixing Two nodes of a BST",
+        "lang": "java",
+        "user_subtime": "2026-02-27 15:00:40"
+      },
+      "701211": {
+        "slug": "trapping-rain-water-1587115621",
+        "pname": "Trapping Rain Water",
+        "lang": "java",
+        "user_subtime": "2026-02-10 14:20:20"
+      },
+      "922409": {
+        "slug": "fixed-two-nodes-of-a-bst--141353",
+        "pname": "Fixing Two nodes of a BST",
+        "lang": "java",
+        "user_subtime": "2026-02-28 15:54:28"
+      },
+      "899453": {
+        "slug": "number-of-submatrix-have-sum-k",
+        "pname": "Number of submatrix have sum X",
+        "lang": "java",
+        "user_subtime": "2026-02-27 11:36:01"
+      },
+      "700546": {
+        "slug": "nodes-at-given-distance-in-binary-tree",
+        "pname": "Nodes at given distance in binary tree",
+        "lang": "java",
+        "user_subtime": "2026-02-24 22:02:04"
+      },
+      "921732": {
+        "slug": "median-of-2-sorted-arrays-of-different-sizes--145027",
+        "pname": "Median of 2 Sorted Arrays of Different Sizes",
+        "lang": "java",
+        "user_subtime": "2026-02-18 16:10:14"
+      },
+      "701216": {
+        "slug": "max-circular-subarray-sum-1587115620",
+        "pname": "Max Circular Subarray Sum",
+        "lang": "java",
+        "user_subtime": "2025-09-27 19:28:30"
+      },
+      "712258": {
+        "slug": "minimum-cost-to-merge-stones",
+        "pname": "Minimum Cost to Merge Stones",
+        "lang": "java",
+        "user_subtime": "2025-11-14 23:40:28"
+      },
+      "914224": {
+        "slug": "chocolate-pickup-ii",
+        "pname": "Chocolate Pickup II",
+        "lang": "java",
+        "user_subtime": "2025-11-09 19:32:24"
+      },
+      "913758": {
+        "slug": "shortest-cycle",
+        "pname": "Shortest Cycle",
+        "lang": "java",
+        "user_subtime": "2025-10-31 21:21:30"
+      },
+      "907133": {
+        "slug": "maximum-subarray-sum--110820",
+        "pname": "Maximum subarray sum 2",
+        "lang": "java",
+        "user_subtime": "2025-09-29 22:51:03"
+      },
+      "701344": {
+        "slug": "maximum-of-minimum-for-every-window-size3453",
+        "pname": "Max of min for every window size",
+        "lang": "java",
+        "user_subtime": "2025-09-22 21:39:19"
+      },
+      "700288": {
+        "slug": "max-rectangle",
+        "pname": "Max  rectangle",
+        "lang": "java",
+        "user_subtime": "2025-09-21 21:41:24"
+      }
+    }
+  },
+  "count": 489
+}
